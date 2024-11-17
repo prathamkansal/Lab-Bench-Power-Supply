@@ -42,4 +42,4 @@ A versatile and adjustable lab bench power supply designed for electronics proto
 Included images and startup video of our completed project setup here.
 
 🌐 Project URL
-Visit the project page: [Lab Bench Power Supply on GitHub](https://github.com/prathamkansal/Lab-Bench-Power-Supply/settings/pages)
+Visit the project page: [Lab Bench Power Supply on GitHub](https://prathamkansal.github.io/Lab-Bench-Power-Supply/)
